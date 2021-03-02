@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAP524_Assignment1_CarlosFalconett</string>
+    <string name="trueButton">Verdad</string>
+    <string name="falseButton">Falso</string>
+    <string name="correctAnswer">Tu respuesta fue correcta!</string>
+    <string name="wrongAnswer">Tu respuesta fue incorrecta.</string>
+
+    <string name="question1">¿El paiz de Panama esta localizado en Centro America?</string>
+    <string name="question2">¿Los Estados Unidos tiene 40 estados?</string>
+    <string name="question3">Una semana tiene 6 días.</string>
+    <string name="question4">Verano es la única temporada que existe en Canada.</string>
+    <string name="question5">En este curso estamos aprendidiendo Android.</string>
+    <string name="testString">Es nulo</string>
+    <string name="sp_Lang">Español</string>
+    <string name="eng_Lang">Ingles</string>
+    <string name="avgRes">Promedio</string>
+    <string name="rstRes">Resetear</string>
+</resources>

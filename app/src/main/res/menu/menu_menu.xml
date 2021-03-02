@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/changeLang"
+        android:title="@string/sp_Lang"
+        />
+
+    <item
+        android:id="@+id/avgResults"
+        android:title="@string/avgRes"
+        />
+
+    <item
+        android:id="@+id/rstResult"
+        android:title="@string/rstRes"
+        />
+
+</menu>

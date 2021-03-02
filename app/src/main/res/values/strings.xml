@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MAP524_Project1_CarlosFalconett</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="correctAnswer">The answer was correct!</string>
+    <string name="wrongAnswer">The answer was incorrect.</string>
+
+    <string name="question1">Is the country of Panama located in Central America?</string>
+    <string name="question2">The United States has 40 states.</string>
+    <string name="question3">A week has a total of 6 days</string>
+    <string name="question4">In Canada the only season that exists is Summer</string>
+    <string name="question5">In this course we are learning Android Development</string>
+    <string name="testString">It is null</string>
+    <string name="sp_Lang">Spanish</string>
+    <string name="eng_Lang">English</string>
+    <string name="avgRes">Average</string>
+    <string name="rstRes">Reset</string>
+</resources>
